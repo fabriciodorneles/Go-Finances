@@ -10,8 +10,7 @@
 - [Baixar e Rodar o Projeto](#-Baixar-e-Rodar-o-Projeto)
 
 ## ✂ Sobre
-Gerenciamento de **Barbearia**. Cadastro de Prestadores de Serviço, Cadastro de Usuarios, agendamento de serviço.
-Backend, Frontend e Mobile.
+E-Commerce Mobile Básico. Protótipo. Desafio BootCamp GoStack - RocketSeat.
 
 ## 🛠 Tecnologias Utilizadas
 
